@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/kartikdrus/77115439-106f-49db-9632-46f0f6452676/ac29fbf0-297a-496f-8892-3e4db24321a0/_apis/work/boardbadge/1a1d0d9b-1ebd-4b95-aee3-a70375ed787d)](https://dev.azure.com/kartikdrus/77115439-106f-49db-9632-46f0f6452676/_boards/board/t/ac29fbf0-297a-496f-8892-3e4db24321a0/Microsoft.RequirementCategory)
 # SmartHotel360
 
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes. If you missed it, you can watch <a href="https://channel9.msdn.com/Events/Connect/2017/K100">Scott Guthrie’s Keynote: Journey to the Intelligent Cloud in Channel 9</a>.

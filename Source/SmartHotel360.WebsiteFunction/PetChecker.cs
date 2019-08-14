@@ -119,7 +119,7 @@ namespace PetCheckerFunction
         {
             try
             {
-                log.Info("--- Creating VisionApi client and analyzing image");
+                log.Info("---    Creating VisionApi client and analyzing image");
 
                 var key = await GetSecret("MicrosoftVisionApiKey");
                 var endpoint = await GetSecret("MicrosoftVisionApiEndpoint");
